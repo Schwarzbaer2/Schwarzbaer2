@@ -5,7 +5,7 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS Logo" width="50" height="50"/>
 
 
 
